@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 **Hello There** 🐋
-I'm a biotechnology student at 
-<a ref="https://www.ing.uc.cl"/> Universidad Catolica </a>
+I'm a biotechnology student at [Universidad Catolica](https://www.ing.uc.cl/)
