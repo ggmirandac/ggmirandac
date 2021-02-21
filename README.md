@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 **Hello There** 🐋
-I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I'm interested in learning biotechnology methods to 
+I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I program in Python but I'm currently learning other programming lenguages Julia and R.
