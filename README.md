@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 **Hello There** 🐋
-I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I program in Python but I'm currently learning other programming lenguages Julia and R.
+I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I program in Python but I'm currently learning other programming lenguages like Julia and R.
