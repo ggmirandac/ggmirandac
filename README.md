@@ -21,14 +21,13 @@ I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.u
 
 I'm interested in biological sciences, biothecnology, bioinformatics and computational ways to understand and study the biological world :microbe: 🧬 .
 # Stats
-<p>
-<div allign="center">
+
+<p align="center">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ggmirandac&show_icons=true&theme=radical&icon_color=6392DF">
-</div>
+
 </p>
-<p>
-<div allign="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmirandac&theme=radical&layout=compact">
-</div>
+
 </p>
