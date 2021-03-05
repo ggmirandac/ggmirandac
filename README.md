@@ -26,8 +26,6 @@ I'm interested in biological sciences, biothecnology, bioinformatics and computa
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ggmirandac&show_icons=true&theme=radical&icon_color=6392DF">
 
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmirandac&theme=radical&layout=compact">
 
 </p>
