@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I program in Python but I'm currently learning other programming lenguages, like Julia, JavaScript and R.
 
 I'm interested in biological sciences, biothecnology, bioinformatics and computational ways to understand and study the biological world :microbe: 🧬 .
-
+# Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggmirandac&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
