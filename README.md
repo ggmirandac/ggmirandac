@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # **Hello There** 🐋
 
-I'm a Biological Engineering student at [Universidad Catolica](https://www.ing.uc.cl/). I program in Python but I'm currently learning other programming lenguages, like Julia, JavaScript and R.
+I'm a Biological Engineering student at UW-Madison. I program in Python, Matlab and I am gaining confidence in Julia 😋.
 
-I'm interested in biological sciences, biothecnology, bioinformatics and computational ways to understand and study the biological world :microbe: 🧬 .
+I'm interested in Computational Biology, Machine Learning and Network Sciences.
 # Stats
 
 <p align="center">
